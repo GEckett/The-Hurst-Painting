@@ -27,16 +27,5 @@ while n < 10:
     n += 1
 tim.hideturtle()
 
-
-
-
-
-
-
-
-
-
-
-
 screen = t.Screen()
 screen.exitonclick()
